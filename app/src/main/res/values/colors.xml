@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#ffffff</color>
+
+    <!-- 首页 -->
+    <color name="user_book">#007aff</color>
+    <!-- 刷题 -->
+    <color name="pen_color">#007aff</color>
+    <!-- 搜题 -->
+    <color name="search_color">#007aff</color>
+    <!-- 用户 -->
+    <color name="user_color">#007aff</color>
+</resources>

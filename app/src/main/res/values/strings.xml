@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="input_kemu">请输入科目名称</string>
+
+    <!-- 练习 -->
+    <string name="icon_book">&#xe60c;</string>
+    <!-- 刷题 -->
+    <string name="icon_pen"> &#xe686;</string>
+    <!-- 搜题 -->
+    <string name="icon_search"> &#xe642;</string>
+    <!-- 用户 -->
+    <string name="icon_user">&#xe603;</string>
+</resources>
