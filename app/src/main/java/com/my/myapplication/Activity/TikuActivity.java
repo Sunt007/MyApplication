@@ -47,6 +47,7 @@ public class TikuActivity extends BaseActivity {
         map.put("ItemTitle", "财经类");
         list.add(map);
 
+
         TikuAdapter adapter = new TikuAdapter(list,TikuActivity.this);
         tikuLv.setAdapter(adapter);
     }
